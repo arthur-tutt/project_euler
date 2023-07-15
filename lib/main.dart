@@ -108,6 +108,7 @@ class _MyHomePageState extends State<MyHomePage> {
           children: <Widget>[
             ProblemOne(),
             ProblemTwo(),
+            ProblemThree(),
             // const Text(
             //   'You have pushed the button this many times:',
             // ),
