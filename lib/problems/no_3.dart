@@ -13,10 +13,10 @@ class ProblemThree extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    List<int> allFactors = [];
-    List<int> nonPrimeFactors = [];
-    List<int> primeFactors = [];
-    List<int> biggestPrimeFactor = [];
+    // List<int> allFactors = [];
+    // List<int> nonPrimeFactors = [];
+    // List<int> primeFactors = [];
+    // List<int> biggestPrimeFactor = [];
     // double bigNumber = 7000000002;
     double bigNumber = 600851475143;
 
